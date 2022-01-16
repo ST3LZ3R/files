@@ -1,0 +1,4 @@
+#### Para modificar o cursor padrão do usuário:
+	1. Descompactar dentro de /usr/share/icons/
+	2. Editar arquivo index.theme (~/.icons/default/) adicionando 'Inherits=NOME_DA_PASTA_DESCOMPACTADA'
+	3. Reiniciar o X11
