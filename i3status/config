@@ -1,6 +1,10 @@
 general {
+		output_format = "i3bar"
         colors = true
         interval = 5
+        color_good = "#00FF00"
+        #color_degraded = "#FF0000"
+        color_bad = "#FF0000"
 }
 
 order += "volume master"
@@ -44,7 +48,7 @@ disk "/home" {
 }
 
 memory {
-        format = "%used | %available"
+        format = "MEM: %available"
         threshold_degraded = "1G"
         format_degraded = "MEMORY < %available"
 }
