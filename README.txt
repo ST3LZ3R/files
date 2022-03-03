@@ -4,5 +4,5 @@
 
 #### Estrutura base do repositório:
 	1. cursor_themes -> Armazena temas de cursor para o X11.
-	2. i3wm -> Arquivos do i3wm.
+	2. i3 -> Arquivos do i3wm.
 	3. i3status -> Arquivos do i3status.
