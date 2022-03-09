@@ -1,0 +1,10 @@
+xterm*background: black
+xterm*foreground: grey
+xterm*faceName: Terminus
+xterm*faceSize: 9
+xterm*loginShell: true
+xterm*saveLines: 1000
+xterm*256color: true
+xterm*eightBitInput: true
+xterm*eightBitOutput: true
+xterm*termName: xterm-256color

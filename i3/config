@@ -1,5 +1,6 @@
 set $mod Mod4
 font pango:Terminus 8 
+title_align center
 
 # i3lock
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork -c 000000
